@@ -1,19 +1,16 @@
 //
-//  ViewController.swift
+//  ItemsViewController.swift
 //  shoppingList
 //
 //  Created by Ольга Усова on 11.12.2020.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
-
+class ItemsViewController: UITableViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
